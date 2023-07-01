@@ -1,3 +1,9 @@
+.vscode/
+scripts/audio/
+scripts/audio_transcription/
+scripts/faiss_index/
+public/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
